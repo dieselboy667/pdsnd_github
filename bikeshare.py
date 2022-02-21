@@ -1,3 +1,5 @@
+"""Project for Udacity's Course Programming for Data Science with Python"""
+
 import time
 import pandas as pd
 import calendar
