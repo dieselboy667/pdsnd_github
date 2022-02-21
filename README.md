@@ -2,7 +2,7 @@
 
 ### Date created: 14.02.2022
 
-### Project Title: Bikeshare Project
+### Project Title: Bikeshare Project US
 
 ### Description
 Python code to explore data related to bike share systems for three major cities in the United States, i.e. Chicago, New York City, and Washington. Code imports the data and answers interesting questions about it by computing descriptive statistics. This happens via an interactive experience in the terminal to present these statistics.
